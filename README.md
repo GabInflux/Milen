@@ -1,5 +1,5 @@
 # Milen
-👾 Converter text to ascii art with a beautiful interface..
+👾 Converter text to ascii art with a beautiful interface.
 
 ## Dependencies
 
