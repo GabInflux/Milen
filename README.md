@@ -20,7 +20,7 @@
 
 *1*. Start the program with *launch.bat*.  
 *2*. Write the text you want to convert to ascii art.  
-*3*. Write the type of ascii art you want (*List at bottom*).
+*3*. Write the type of ascii art you want (*List at bottom*).  
 *4*. Enjoy your ascii text !
 
 ## List of ascii art:
