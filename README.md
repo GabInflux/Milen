@@ -24,3 +24,5 @@
 *4*. Enjoy your ascii text !
 
 ## List of ascii art:
+
+https://github.com/sepandhaghighi/art/blob/master/FontList.ipynb
